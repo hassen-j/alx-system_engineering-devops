@@ -1,2 +1,2 @@
-#!/usr/bin
+#!/bin/bash
 rmdir /tm/my_first_directory
